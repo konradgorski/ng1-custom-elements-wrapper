@@ -11,4 +11,3 @@ npm run build:elements
 cd elements
 npm run start
 ```
-- [live demo](http://localhost:3000/)
