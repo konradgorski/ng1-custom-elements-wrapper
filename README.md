@@ -11,3 +11,4 @@ npm run build:elements
 cd elements
 npm run start
 ```
+### app runs in  port 3000 (http://localhost:3000/)
