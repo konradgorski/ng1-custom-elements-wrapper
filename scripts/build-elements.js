@@ -5,6 +5,8 @@ const concat = require('concat');
   const files = [
     './dist/apps/hello-world/runtime.js',
     './dist/apps/hello-world/polyfills.js',
+    './dist/apps/hello-world/styles.js',
+    './dist/apps/hello-world/vendor.js',
     './dist/apps/hello-world/main.js'
   ];
 
