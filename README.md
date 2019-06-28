@@ -11,5 +11,13 @@ npm run build:elements
 cd elements
 npm run start
 ```
+### Quickstart with Docker
+
+```sh
+git https://github.com/siddharthpal/ng1-custom-elements-wrapper.git
+cd ng1-custom-elements-wrapper
+docker-compose up
+```
+
 ### app runs in  port 3000 (http://localhost:3000/)
 - [Live Demo](https://create-ng1-wrapper-app.firebaseapp.com/)
